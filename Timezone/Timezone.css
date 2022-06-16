@@ -1,0 +1,21 @@
+.timezone-div {
+  text-align: center;
+  background-color: whitesmoke;
+  font-size: 2.2rem;
+  box-shadow: 0 0 20px rgb(0, 0, 0);
+  line-height: 50px;
+  padding: 10%;
+  height: 200px;
+  width: 300px;
+}
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+  url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/World_Time_Zones_Map.png/640px-World_Time_Zones_Map.png);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 95vh;
+}
